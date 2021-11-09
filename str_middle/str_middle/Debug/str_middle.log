@@ -1,0 +1,10 @@
+﻿  0_len.cpp
+C:\Users\sanya\OneDrive\Рабочий стол\projects\c++\str_middle\str_middle\0_len.cpp(6,16): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+  1_isDigit.cpp
+  2_toUpper.cpp
+  4_Compare.cpp
+  5_kol_slov.cpp
+C:\Users\sanya\OneDrive\Рабочий стол\projects\c++\str_middle\str_middle\5_kol_slov.cpp(11,9): warning C4244: return: преобразование "__int64" в "int", возможна потеря данных
+  main.cpp
+  Создание кода...
+  str_middle.vcxproj -> C:\Users\sanya\OneDrive\Рабочий стол\projects\c++\str_middle\Debug\str_middle.exe
